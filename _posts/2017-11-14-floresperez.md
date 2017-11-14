@@ -6,9 +6,6 @@ date: 2017-11-15
 ---
 
 
-
-
-
 En la industria existen un gran número de compañías que se dedican a elaborar productos que pasan por varias etapas en donde la forma de cómo se procesan en cada etapa puede cambiar. Por control industrial se entiende el establecimiento de metodologías que permiten establecer formas de operación y condiciones para cada etapa con el fin de que los productos tengan ciertas características deseadas.
 
 En este artículo se presentan: las bases del control industrial y las experiencias que se tienen en la Licenciatura en Ciencias de la Computación de la Universidad de Sonora que pudieran utilizarse para la resolución de problemas de la industria.
@@ -21,7 +18,7 @@ Cabe agregar que, en un proceso industrial, puede haber varias etapas donde las 
 
 
             
-[figura1]: http:www.datablogsonora.github.io/images/figura1pedro.jpg
+[figura1]: httsp:www.datablogsonora.github.io/images/figura1pedro.jpg "Figura 1"
 
 En el caso de que se pueda construir un buen modelo que prediga los valores de las salidas en términos de los valores de entrada es posible realizar el control industrial del proceso que consiste en encontrar condiciones de operación que permitan, bajo distintas condiciones de los materiales de entrada, que las características de los productos sean lo mejor posible. Cuando se puede construir una función que modela la salida en términos de las entradas a esta función se le denomina Función de Transferencia (FT).
 
