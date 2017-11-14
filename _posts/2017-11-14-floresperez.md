@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Posibilidades de colaboración en Control Industrial
