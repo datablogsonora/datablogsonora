@@ -18,7 +18,7 @@ Cabe agregar que, en un proceso industrial, puede haber varias etapas donde las 
 
 
             
-![figura1](httsp:www.datablogsonora.github.io/images/figura1pedro.jpg "Figura 1")
+![figura1](https:www.datablogsonora.github.io/images/figura1pedro.jpg "Figura 1")
 
 En el caso de que se pueda construir un buen modelo que prediga los valores de las salidas en términos de los valores de entrada es posible realizar el control industrial del proceso que consiste en encontrar condiciones de operación que permitan, bajo distintas condiciones de los materiales de entrada, que las características de los productos sean lo mejor posible. Cuando se puede construir una función que modela la salida en términos de las entradas a esta función se le denomina Función de Transferencia (FT).
 
