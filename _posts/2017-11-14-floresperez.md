@@ -3,7 +3,7 @@
 layout: post
 title: Posibilidades de colaboración en Control Industrial.
 author: Pedro Flores Pérez
-date: 2017-10-5
+date: 2017-11-15
 ---
 
 
