@@ -16,7 +16,7 @@ Dicha información histórica normalmente se presenta en documentos dentro de ta
 
 Cabe agregar que, en un proceso industrial, puede haber varias etapas donde las estradas en una etapa son salidas en otra y así sucesivamente. Por esta razón, la etapa más simple de un proceso industrial la podemos representar por medio de un diagrama de caja negra en donde las entradas son de dos tipos con un sólo tipo de salida (fig. 1.). Los datos en el primer tipo de entradas corresponderían a los valores de las características de los materiales que se están alimentando al proceso y los del segundo tipo a las variables que representan las condiciones de operación del proceso. Los datos de las entradas son los candidatos a ser modelados por medio de una metodología estadística conocida como Series de Tiempo (ST).
        
-![figura1](https:www.datablogsonora.github.io/images/figura1pedro.jpg "Figura 1")
+![figura1](https:www.datablogsonora.github.io/images/figura1pedro.png "Figura 1")
 
 En el caso de que se pueda construir un buen modelo que prediga los valores de las salidas en términos de los valores de entrada es posible realizar el control industrial del proceso que consiste en encontrar condiciones de operación que permitan, bajo distintas condiciones de los materiales de entrada, que las características de los productos sean lo mejor posible. Cuando se puede construir una función que modela la salida en términos de las entradas a esta función se le denomina Función de Transferencia (FT).
 
